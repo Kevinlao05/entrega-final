@@ -136,6 +136,5 @@ Guarda capturas con nombres claros dentro de `docs/evidencias/`:
 
 ## 8) Integrantes
 Desarollado por: 
--Leidy Johana Arboleda Sánchez
--Miguel Ángel Isaza Fajardo
--Carolina Palacio Gutiérrez
+-Kevin fernando palacios
+- victor pineda
