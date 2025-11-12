@@ -137,4 +137,4 @@ Guarda capturas con nombres claros dentro de `docs/evidencias/`:
 ## 8) Integrantes
 Desarollado por: 
 -Kevin fernando palacios
-- victor pineda
+victor pineda
